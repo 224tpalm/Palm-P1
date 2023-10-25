@@ -929,7 +929,7 @@
     }
     .right-header .name {
       font-size: 2.5rem !important;
-      text-align: center;
+      text-align: left;
       padding-top: 3rem;
     }
   }
