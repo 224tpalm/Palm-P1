@@ -22,9 +22,9 @@
   }
   
   .light-mode {
-    --color-primary: #838cac;
-    --color-secondary: #08c7f7;
-    --color-white: #454e56;
+    --color-primary: #6672a0;
+    --color-secondary: white;
+    --color-white: #08c7f7;
     --color-black: white;
     --color-grey0: #f8f8f8;
     --color-grey-1: white;
